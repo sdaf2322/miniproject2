@@ -1,0 +1,14 @@
+release/clientitem.o
+release/clientmanagerform.o
+release/main.o
+release/mainwindow.o
+release/productitem.o
+release/productmanagerform.o
+release/serverform.o
+release/shopitem.o
+release/shopmanagerform.o
+release/moc_clientmanagerform.o
+release/moc_mainwindow.o
+release/moc_productmanagerform.o
+release/moc_serverform.o
+release/moc_shopmanagerform.o
